@@ -1,6 +1,9 @@
 a:hover{
     text-decoration: none;
 }
+body,html{
+    overflow-x: hidden;
+}
 .sectionPadding{
     padding:70px 0;
 }
